@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Salsa_record</string>
+    <string name="correo">E-mail</string>
+    <string name="pass">Contraseña</string>
+    <string name="login">Entrar</string>
+    <string name="crearCuenta">Crear cuenta</string>
+    <string name="nombre">Nombre</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="mensaje1">Ya tienes cuenta? Ingresa</string>
+    <string name="correo_valido">Ingresa un E-mail valido</string>
+    <string name="tamano_pass">Debe ser entre 4 - 10 caracteres</string>
+    <string name="tamano_nombre">Debe ser mayor a 3 caracteres</string>
 </resources>
